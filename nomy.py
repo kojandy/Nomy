@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 import yaml
 from lxml import etree
 import requests
